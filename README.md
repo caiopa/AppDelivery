@@ -1,6 +1,6 @@
 # Projeto AppDelivery
 
-Projeto em grupo do módulo de Front-end do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/), 
+Projeto em grupo do módulo de Back-end do curso de Desenvolvimento Web da [Trybe](https://www.betrybe.com/), 
 desenvolvido por  [Caio Pereira](https://github.com/caiopa), [Henrique Ambrosano](https://github.com/henriqueambrosano), [Samuel Ribeiro](https://github.com/SamuelR499), [Júlia Marques](https://github.com/juliamarqss), [Rafael Martins](https://github.com/Rmartins858), [Gabriel Herdina](https://github.com/gabrielhdn)
 
 
