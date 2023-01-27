@@ -2,6 +2,7 @@ import PropTypes from 'prop-types';
 import React, { useEffect, useState } from 'react';
 
 function ProductCard({ price, urlImage, name, id, updateTotal, product }) {
+  console.log(product);
   const [qty, setQty] = useState(product.qty || 0);
 
   const calculateTotal = (cart) => {

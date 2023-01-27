@@ -37,6 +37,7 @@ class SaleController {
       const id = await this.service.create(req.body);
       return res.status(201).json({ id });
     } catch (e) {
+      console.log(e.message)
       next(e);
     }
   }
